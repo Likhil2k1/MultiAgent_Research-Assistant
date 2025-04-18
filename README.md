@@ -44,4 +44,4 @@ multi_agent_research_assistant/
 
 ---
 
-Built with 💡 by **Likhil Penujuli**
+Built with 💡 by **LP** and **VR**
